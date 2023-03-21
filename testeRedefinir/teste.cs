@@ -8,5 +8,6 @@ namespace testeRedefinir
 {
     class teste
     {
+        string t = "";
     }
 }
